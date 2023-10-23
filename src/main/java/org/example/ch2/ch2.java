@@ -17,7 +17,5 @@ public class ch2 {
         for (String friend : friends) {
             System.out.println(friend);
         }
-
-
     }
 }
